@@ -36,7 +36,7 @@ to make those failure modes visible and reviewable, not to make agents faster.
 ## Related writing
 
 Findings from running this in production are written up on the
-[Harness Engineering series](https://log.delaa.dev) — including agents
+[Harness Engineering series](https://log.delaa.dev/series/harness-engineering) — including agents
 breaking their own rules under context pressure, and a controlled
 comparison of Spec Kit, BMAD and OpenSpec.
 
